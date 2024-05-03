@@ -103,6 +103,8 @@ estou trabalhando na horse do brasil.
             <li>Aprendizado Continuo</li>
         </ul>
     </section>
+</body>
+</html>
 
 <br>
  <!-- Experiências -->
@@ -124,6 +126,8 @@ estou trabalhando na horse do brasil.
                 <p>Analista de processos e projetos Sênior: Fev 2024 - atualmente</p>
                 <a href="Analista de processos e projetos Sênior: Fev 2024 - atualmente"></a>
             </li>
+</body>
+</html>
 
 <br>
 <!-- Contato -->
